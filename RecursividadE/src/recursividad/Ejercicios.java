@@ -26,7 +26,7 @@ public class Ejercicios {
         return factorial;
     }
     /*
-    --COMPARAR DOS VECTORES CON RECURSIVIDAD--
+    --Comparar dos vectores con recursividad--
     vector1 = {5, 6, 2}
     vector2 = {2, 9, 2}
     resultado = 3 + 3 + 0 = 6
@@ -52,6 +52,8 @@ public class Ejercicios {
 
 /*
 --FIBONACI--
+
+
  */
 
     public static void main(String[] args) {
